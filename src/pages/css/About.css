@@ -1,0 +1,19 @@
+.about {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.content {}
+
+.text-content {
+    padding: 10px;
+    text-align: center;
+}
